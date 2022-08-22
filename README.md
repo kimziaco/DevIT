@@ -66,8 +66,8 @@
 이 서비스의 핵심 기능은 구인자와 구직자의 결제입니다. <br/>
 현재는 결제를 경험해보기 위하여 포인트 형태로 구현해두었습니다. <br/>
  
- <img width="876" alt="스크린샷 2022-08-09 오후 4 29 45" src="https://user-images.githubusercontent.com/84092014/183590586-6d6c92e6-a598-46a9-a292-5ba53f361338.png">
 
+<img width="644" alt="스크린샷 2022-08-22 오전 11 03 25" src="https://user-images.githubusercontent.com/88760828/185824791-880ed144-ec49-43d8-bb63-5e04d90f30d2.png">
 
 <br/>
 
