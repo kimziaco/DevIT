@@ -72,6 +72,9 @@
 <br/>
 
 ## 5. 아키텍처도
+<img width="699" alt="스크린샷 2022-08-22 오후 9 10 27" src="https://user-images.githubusercontent.com/88760828/185918599-aaa99e8b-5509-4fc4-81e8-0f49bdbc28cb.png">
+
+<img width="692" alt="스크린샷 2022-08-22 오후 9 10 35" src="https://user-images.githubusercontent.com/88760828/185918608-3a16ef5c-379a-404b-a476-30fc4f30a79f.png">
 
 <br/>
 
