@@ -81,7 +81,8 @@
 ## 6. 핵심 트러블 슈팅
 <details><summary>1. 고객 피드백 반영</summary>
 
-[고객 피드백 확인](https://hungry-snipe-f2e.notion.site/0790cc60a2794a0db2f1015ca6d2cf41) 참고
+- [고객 피드백 확인](https://hungry-snipe-f2e.notion.site/0790cc60a2794a0db2f1015ca6d2cf41) 
+- [고객피드백 정리 및 반영](https://velog.io/@jeeho102/DevIT-%EA%B3%A0%EA%B0%9D%ED%94%BC%EB%93%9C%EB%B0%B1-%EC%A0%95%EB%A6%AC-%EB%B0%8F-%EB%B0%98%EC%98%81)
 
 1. http 요청에 대한 처리 <br/>
 2. 회원가입 시 이메일 검증 추가
